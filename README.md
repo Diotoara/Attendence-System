@@ -16,3 +16,22 @@ A simple and efficient Attendance Management System built with Python. This proj
 
 🔐 Admin authentication (optional)
 
+
+
+
+🛠️ Tech Stack
+
+Language: Python 3.x
+
+Libraries Used:
+
+datetime – for timestamps
+
+csv or sqlite3 – for data storage
+
+tkinter – (for GUI version)
+
+os, getpass – (for file handling or security)
+
+
+
